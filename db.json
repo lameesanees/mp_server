@@ -1,0 +1,98 @@
+{
+  "allVideos": [
+    {
+      "caption": "manjummel boys trailer",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "image": "https://i.ytimg.com/vi/id848Ww1YLo/maxresdefault.jpg",
+      "id": 1
+    },
+    {
+      "caption": "React Tutorial",
+      "image": "https://i.ytimg.com/vi/w7ejDZ8SWv8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/w7ejDZ8SWv8?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "id": 2
+    },
+    {
+      "caption": "Interview Prep",
+      "image": "https://i.ytimg.com/vi/qpkegRmPgis/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/qpkegRmPgis?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "id": 3
+    },
+    {
+      "caption": "Makeup tutorial",
+      "image": "https://i.ytimg.com/vi/IYgCo9OV8ZU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/IYgCo9OV8ZU?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "id": 4
+    },
+    {
+      "caption": "Motivational Video",
+      "url": "https://www.youtube.com/embed/nkZeMRn0qq0?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "image": "https://i.ytimg.com/vi/nkZeMRn0qq0/maxresdefault.jpg",
+      "id": 5
+    },
+    {
+      "image": "https://i.ytimg.com/vi/3qBXWUpoPHo/maxresdefault.jpg",
+      "caption": "Angular Tutorial",
+      "url": "https://www.youtube.com/embed/3qBXWUpoPHo?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "id": 6
+    },
+    {
+      "caption": "Makeup Lipstick",
+      "image": "https://i.ytimg.com/vi/h14U7MF446w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/h14U7MF446w?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "categoryname": "tutorials",
+      "video": [
+        {
+          "image": "https://i.ytimg.com/vi/3qBXWUpoPHo/maxresdefault.jpg",
+          "caption": "Angular Tutorial",
+          "url": "https://www.youtube.com/embed/3qBXWUpoPHo?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+          "id": 6
+        },
+        {
+          "caption": "React Tutorial",
+          "image": "https://i.ytimg.com/vi/w7ejDZ8SWv8/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/w7ejDZ8SWv8?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryname": "Makeup",
+      "video": [
+        {
+          "caption": "Makeup tutorial",
+          "image": "https://i.ytimg.com/vi/IYgCo9OV8ZU/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/IYgCo9OV8ZU?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+          "id": 4
+        },
+        {
+          "caption": "Makeup Lipstick",
+          "image": "https://i.ytimg.com/vi/h14U7MF446w/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/h14U7MF446w?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+          "id": 7
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "manjummel boys trailer",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "datetime": "2024-03-17T14:54:51.703Z",
+      "id": 1
+    },
+    {
+      "caption": "Makeup tutorial",
+      "url": "https://www.youtube.com/embed/IYgCo9OV8ZU?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "datetime": "2024-03-17T14:55:00.657Z",
+      "id": 2
+    }
+  ]
+}
